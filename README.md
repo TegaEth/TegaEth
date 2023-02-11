@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TegaEth
-- 👀 I’m interested in Blockchain, more Blockchain,On chain analysis, Technical Analysis, Cybersecurity, Fundamental Analysis and Money.
-- 🌱 I’m currently tryna rebuild Ethereum, learning how to write rootkits and build bot networks.
-- 💞️ I’m looking to make a shit ton of money doing as little as possible 🥳🥳🥳
+- 👀 I’m interested in Blockchain, Artificial intelligence and Cyber security 
+- 🌱 I’m currently tryna rebuild Ethereum, learning how to write rootkits and build bot networks whilst creating the future of AI.
+- 💞️ I’m looking to solve present problems using future technology 🥳🥳🥳
 - 📫 How to reach me on Twitter @OchiOjie .
 
 <!---

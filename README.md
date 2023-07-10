@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TegaEth
-- 👀 I’m interested in Blockchain, Artificial intelligence and Cyber security 
-- 🌱 I’m currently tryna rebuild Ethereum, learning how to write rootkits and build bot networks whilst creating the future of AI.
-- 💞️ I’m looking to solve present problems using future technology 🥳🥳🥳
-- 📫 How to reach me on Twitter @OchiOjie .
+- I'm a Blockchain Developer and Artificial intelligence Engineer
+- 🌱 Web3 business developer, raising communities from 0 to 20k+ members, over $100k revenue for clients, and successfully developed the business structure of over 20+ Web3 companies.
+- 💞️ I’m looking to solve present problems using future technology.
+- 💯 I've developed businesses in Web3 that have reached top 10 in their token rankings.
+- 📫 How to reach me on Twitter - @OchiOjie
 
 <!---
 TegaEth/TegaEth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

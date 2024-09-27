@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TegaEth - Ex Google Data Analyst
+- 👋 Hi, I’m @TegaEth
 - I'm a Lazy Blockchain Developer and Artificial intelligence Engineer who rarely uses GitHub😹 very irresponsible,I know.
 - 🌱 Web3 business developer, raising communities from 0 to 20k+ members, over $850k revenue for clients, and successfully developed the business structure of over 30+ Web3 companies/projects.
 - 💞️ I’m looking to solve present problems using future technology.
